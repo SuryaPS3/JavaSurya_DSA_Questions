@@ -8,6 +8,7 @@ class Leetcode_17_Backtracking {
     public static void main(String[] args) {
         Solution s = new Solution();
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the digits without any space");
         System.out.println(s.letterCombinations(sc.next()));
     }
 
