@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Leecode_46_Backtracking {
+public class Leetcode_46_Backtracking {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number of elements");
